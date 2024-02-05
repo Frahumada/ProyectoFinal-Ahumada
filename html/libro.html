@@ -1,0 +1,49 @@
+<!-- LIBRO -->
+
+<div class="m-3 bg-secondary m-5 p-5 border-top border-5 border-dark">
+    <div class="mb-3">
+      <label for="formGroupResultadoInput" class="form-label"
+        >Ingrese cantidad de paginas</label
+      >
+      <input
+        type="number"
+        class="form-control"
+        id="cantidadPaginas"
+        placeholder="#"
+      />
+    </div>
+    <div class="m-1">
+      <select class="form-select" aria-label="Default select Resultado">
+        <option selected>Tamaño de impresion</option>
+        <option value=false >A4</option>
+        <option value=true >A5</option>
+      </select>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="true" id="colorImpresion" />
+      <label class="form-check-label" for="flexCheckDefault">
+        Impresion a color
+      </label>
+    </div>
+    <div class="flex-column d-flex align-items-center">
+      <p>
+        <button
+          class="btn btn-primary "
+          type="button"
+          onclick="calcularLibro()"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapseResultado"
+          aria-expanded="false"
+          aria-controls="collapseResultado"
+        >
+          Calcular
+        </button>
+      </p>
+      <div class="collapse bg-light p-3" id="collapseResultado">
+        <div class="card card-body">Resultado</div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <script src="./main.js"></script>

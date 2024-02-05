@@ -1,0 +1,93 @@
+[
+	{
+		"id": 1,
+		"mm": 7,
+		"capacidad": 25,
+		"unidades": 50,
+		"precio_costo": 1766.6
+	},
+	{
+		"id": 2,
+		"mm": 9,
+		"capacidad": 50,
+		"unidades": 50,
+		"precio_costo": 1943.26
+	},
+	{
+		"id": 3,
+		"mm": 12,
+		"capacidad": 70,
+		"unidades": 50,
+		"precio_costo": 2918.52
+	},
+	{
+		"id": 4,
+		"mm": 14,
+		"capacidad": 85,
+		"unidades": 50,
+		"precio_costo": 3656.62
+	},
+	{
+		"id": 5,
+		"mm": 17,
+		"capacidad": 100,
+		"unidades": 50,
+		"precio_costo": 4823.06
+	},
+	{
+		"id": 6,
+		"mm": 20,
+		"capacidad": 120,
+		"unidades": 50,
+		"precio_costo": 5608.35
+	},
+	{
+		"id": 7,
+		"mm": 23,
+		"capacidad": 140,
+		"unidades": 20,
+		"precio_costo": 2944
+	},
+	{
+		"id": 8,
+		"mm": 25,
+		"capacidad": 160,
+		"unidades": 20,
+		"precio_costo": 3310
+	},
+	{
+		"id": 9,
+		"mm": 29,
+		"capacidad": 180,
+		"unidades": 20,
+		"precio_costo": 4359.63
+	},
+	{
+		"id": 10,
+		"mm": 33,
+		"capacidad": 250,
+		"unidades": 20,
+		"precio_costo": 4840
+	},
+	{
+		"id": 11,
+		"mm": 40,
+		"capacidad": 350,
+		"unidades": 12,
+		"precio_costo": 4607.68
+	},
+	{
+		"id": 12,
+		"mm": 45,
+		"capacidad": 400,
+		"unidades": 9,
+		"precio_costo": 4059.55
+	},
+	{
+		"id": 13,
+		"mm": 50,
+		"capacidad": 450,
+		"unidades": 9,
+		"precio_costo": 4360
+	}
+]

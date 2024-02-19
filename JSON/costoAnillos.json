@@ -1,4 +1,50 @@
-[
+
+
+
+
+{
+	"resma" : [{
+		"id":1,
+		"tamaño":"a4",
+		"hojas":500,
+		"precio":7000
+	},
+	{
+		"id":1,
+		"tamaño":"a5",
+		"hojas":500,
+		"precio":7000
+	}], 
+	
+	"tapas" : [{
+		"id":1,
+		"tamaño":"a4",
+		"tipo":"color",
+		"cantidad":50,
+		"precio":5500
+	},
+	{
+		"id":2,
+		"tamaño":"a4",
+		"tipo":"transparentes",
+		"cantidad":50,
+		"precio":5500
+	}], 
+
+	"tinta" : [{
+		"id":1,
+		"tipo":"color",
+		"precio":5,
+		"paginas":1
+	},
+	{
+		"id":2,
+		"tipo":"blanco y negro",
+		"precio":31716.21,
+		"paginas":12000
+	}], 
+
+	"anillos" : [
 	{
 		"id": 1,
 		"mm": 7,
@@ -91,3 +137,4 @@
 		"precio_costo": 4360
 	}
 ]
+}
